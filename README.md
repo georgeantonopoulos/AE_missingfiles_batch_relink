@@ -1,11 +1,11 @@
-# AE Helper Scripts! ✨
+# AE Missing Files Batch Relink ✨
 
 Hey there, After Effects adventurer! Got a couple of cool scripts here to make your life a bit easier.
 
 ## 1. `exportMissingFiles.jsx` - The Detective 🕵️‍♀️
 
 **What's its deal?**
-This script is your go-to when After Effects starts complaining about missing footage (we've all been there!). It scans your open project, finds all the files that have gone AWOL, and neatly lists their last known paths in a text file called `missingFiles.txt`. This list becomes the input for our next hero script.
+This script is your go-to when After Effects starts complaining about missing footage. It scans your open project, finds all the files that have gone AWOL, and neatly lists their last known paths in a text file called `missingFiles.txt`. This list becomes the input for our next hero script.
 
 **How to use it:**
 1.  Open your After Effects project that has missing files.
@@ -38,4 +38,4 @@ It's a bit of a beast, but it keeps detailed logs of everything it does, so you 
 *   Always save your AE project before running scripts, just in case!
 *   These scripts try their best, but complex projects or super messy file structures might still need some manual love. The logs are your guide!
 
-Happy keyframing! 
+Happy relinking! 
